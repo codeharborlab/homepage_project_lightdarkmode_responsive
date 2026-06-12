@@ -1,6 +1,6 @@
-# Responsive Single Page Website
+# Responsive Single Page Website Light And Dark Mode
 
-A modern and responsive single-page website built with HTML and CSS. This project was created as a practice exercise to improve my front-end development skills and understanding of UI design.
+A modern and responsive and light and dark mode single-page website built with HTML and CSS. This project was created as a practice exercise to improve my front-end development skills and understanding of UI design.
 
 ---
 
