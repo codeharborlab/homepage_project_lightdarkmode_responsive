@@ -44,7 +44,6 @@ Both versions are included in this repository to practice theme switching and UI
 
 The project is organized as follows:
 
-```text
 /
 ├── css/                # Stylesheets
 │   ├── style.css       # Light mode styles
